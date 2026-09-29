@@ -1,0 +1,2 @@
+ContentCraft uses only the Python standard library. No pip installs are needed.
+
